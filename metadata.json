@@ -1,0 +1,5 @@
+{
+  "name": "Kifu Dojo",
+  "description": "A Go board application for practicing shapes, drilling memory, and logging game records.",
+  "requestFramePermissions": []
+}
