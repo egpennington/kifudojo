@@ -19,6 +19,7 @@ import { playStoneSound } from './services/sound';
 const INITIAL_STONES: BoardState = {};
 
 function App() {
+  console.log("app is running")
   // Navigation
   const [view, setView] = useState<'editor' | 'drill' | 'log'>('editor');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
